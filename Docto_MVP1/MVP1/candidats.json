@@ -1,9 +1,12 @@
 {
     "Candidats" :[
 
+
       {"first_name" :"Martin",
-      "last_name":"Accoberry"
+      "last_name":"Accoberry",
+        "date de l'entretien":""
       },
+
       {
         "first_name":"Louise",
       "last_name":"Asselin"
@@ -17,7 +20,8 @@
       "last_name":"Chelly"
       },
       {
-        "first_nam":"Margaux",
+        "first_name":"Margaux",
+
       "last_name":"Deligne"
       },
       {

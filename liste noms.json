@@ -1,0 +1,24 @@
+{
+    Candidats : [
+        {
+          first_name="Amber"
+        last_name="Valentine"
+        }
+        {
+          first_name="Nicki"
+        last_name="Minaj"
+        }
+        {
+          first_name="Be"
+        last_name="Yoncé"
+        }
+        {
+          first_name="Louise"
+        last_name="Maaaaaaaaaaarek"
+        }
+        {
+          first_name="Carla"
+        last_name="Mornage"
+        }
+    ]
+}

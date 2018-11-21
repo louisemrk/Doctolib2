@@ -2,7 +2,7 @@ import json
 import numpy.random as rd
 
 def dateentretien():
-    with open('candidats.json') as f:
+    with open('candidats2.json') as f:
         data=json.load(f)
         dic={}
         for candidat in data['Candidats']:

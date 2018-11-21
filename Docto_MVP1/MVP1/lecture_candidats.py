@@ -17,10 +17,10 @@ import json
         return donnees_exploitables'''
 
 
-#data = dataframe_exploitable("candidats.json",["first_name","last_name"])
+#data = dataframe_exploitable("candidats2.json",["first_name","last_name"])
 #data.to_csv('candidats_dataframe.csv', sep = '\t', index = False)
 
-with open("candidats.json") as f:
+with open("candidats2.json") as f:
             data = json.load(f)
             print(data["Candidats"][0]["first_name"])
 

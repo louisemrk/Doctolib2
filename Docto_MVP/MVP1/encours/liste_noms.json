@@ -1,0 +1,43 @@
+{
+  "Candidats":[
+    {
+      "first_name": "Martin",
+      "last_name": "Accoberry"
+    },
+
+    {
+      "first_name": "Louise",
+      "last_name": "Adelin"
+    },
+    {
+      "first_name": "Marine",
+      "last_name": "Benichou"
+    },
+    {
+      "first_name":"Swan",
+      "last_name":"Chelly"
+    },
+
+    {
+      "first_name":"Margaux",
+      "last_name":"Deligne"
+    },
+    {
+      "first_name":"Paul",
+      "last_name":"Forget"
+    },
+    {
+      "first_name":"Anais",
+      "last_name":"Gonzales"
+    },
+
+    {
+      "first_name":"Ilian",
+      "last_name":"Mylan"
+    },
+    {
+      "first_name":"Pierre",
+      "last_name":"Olivier"
+    }
+  ]
+}

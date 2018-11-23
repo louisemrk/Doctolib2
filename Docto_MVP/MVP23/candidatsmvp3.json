@@ -1,0 +1,178 @@
+{
+ "Candidats":
+ [
+ {
+   "Id": "a1",
+   "first_name": "Louise",
+   "last_name": "Marek",
+   "date_birth": "09/02/1997",
+   "birth_city": "Lyon",
+   "interview_date": "11/05/2018",
+   "lieuEntretien": "Paris",
+   "fichiers":
+   [
+     {
+       "id" : "a1_1",
+       "nom": "code_louise_mrk",
+       "contenu":"ceci est le test de louise" ,
+       "nomTest":"test_code_louise_mrk",
+       "contenu_Test": "ceci est le programme de louise" ,
+       "stats":
+       {
+         "functionsCount": "7",
+         "commentCount": "5",
+         "variableNameQuality": "3" ,
+         "duplicate":
+         [
+           {
+             "id": "a2_1",
+             "similarity": "8%"
+           },
+           {
+             "id": "a2_2" ,
+             "similarity": "90%"
+           },
+           {
+             "id": "a3_1" ,
+             "similarity": "17%"
+           }
+
+         ]
+       },
+       "compteRendu":"compte_rendu_louise_mrk" ,
+       "dateUpload": "20/05/2018"
+     }
+   ],
+   "metrics":
+   {
+     "level": "10"
+   }
+ },
+ {
+   "Id": "a2",
+   "first_name": "Antoine",
+   "last_name": "Poli",
+   "date_birth": "08/10/1997",
+   "birth_city": "Perpignan",
+   "interview_date": "14/09/2018",
+   "lieuEntretien": "Rennes",
+   "fichiers":
+   [
+     {
+       "id" : "a2_1",
+       "nom": "code_antoine_poli",
+       "contenu": "ceci est le programme 1 de antoine poli",
+       "nomTest":"test_code_antoine_poli",
+       "contenu_Test":"test du fichier de code" ,
+       "stats":
+       {
+         "functionsCount":"5",
+         "commentCount":"3",
+         "variableNameQuality": "2" ,
+         "duplicate":
+         [
+           {
+             "id": "a1_1",
+             "similarity": "8%"
+           },
+           {
+             "id": "a2_2" ,
+             "similarity": "2%"
+           },
+           {
+             "id": "a3_1" ,
+             "similarity": "15%"
+           }
+         ]
+       },
+       "compteRendu":"compte_rendu_antoine_poli" ,
+       "dateUpload": "18/10/2018"
+     },
+     {
+       "id" : "a2_2",
+       "nom": "code_antoine_poli_2",
+       "contenu": "ceci est le code 2 de antione poli",
+       "nomTest":"test_code_antoine_poli_2",
+       "contenu_Test":"test du fichier de code 2" ,
+       "stats":
+       {
+         "functionsCount": "6",
+         "commentCount":"2",
+         "variableNameQuality": "2",
+         "duplicate":
+         [
+           {
+             "id": "a1_1",
+             "similarity": "90%"
+           },
+           {
+             "id": "a2_1" ,
+             "similarity": "2%"
+           },
+           {
+             "id": "a3_1" ,
+             "similarity": "10%"
+           }
+
+         ]
+       },
+       "compteRendu":"compte_rendu_antoine_poli_2" ,
+       "dateUpload": "20/10/2018"
+     }
+
+   ],
+   "metrics":
+   {
+     "level": "3"
+   }
+ },
+ {
+   "Id": "a3",
+   "first_name": "Thomas",
+   "last_name": "Michel",
+   "date_birth": "17/06/1990",
+   "birth_city": "Nantes",
+   "interview_date": "28/07/2018",
+   "lieuEntretien": "Paris",
+   "fichiers":
+   [
+     {
+       "id" : "a3_1",
+       "nom": "code_thomas_michel",
+       "contenu":"ceci est le test de thomas" ,
+       "nomTest":"test_code_thomas_michel",
+       "contenu_Test": "ceci est le programme de thomas" ,
+       "stats":
+       {
+         "functionsCount": "12",
+         "commentCount": "9",
+         "variableNameQuality": "8" ,
+         "duplicate":
+         [
+           {
+             "id": "a1_1" ,
+             "similarity": "15%"
+           },
+           {
+             "id": "a2_1" ,
+             "similarity": "10%"
+           },
+           {
+             "id": "a2_2" ,
+             "similarity": "17%"
+           }
+
+         ]
+       },
+       "compteRendu":"compte_rendu_thomas_michel" ,
+       "dateUpload": "03/08/2018"
+     }
+   ],
+   "metrics":
+   {
+     "level": "13"
+   }
+ }
+
+ ]
+}
